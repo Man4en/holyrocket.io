@@ -1,0 +1,11 @@
+p {
+    font-size: 24px;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.text-dark {
+    color: #333333;
+}
